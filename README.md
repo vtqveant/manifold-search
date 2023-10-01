@@ -1,0 +1,1 @@
+Example client for vector search in Redis.
